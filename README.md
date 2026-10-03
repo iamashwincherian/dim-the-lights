@@ -2,6 +2,12 @@
 
 A free, open-source macOS menu bar app that dims or blurs everything except the window you're focused on.
 
+<p align="center">
+  <img src="docs/menu-dim.png" alt="Dim mode menu" width="270">
+  &nbsp;&nbsp;
+  <img src="docs/menu-blur.png" alt="Blur mode menu with tint submenu" width="270">
+</p>
+
 - **Off / Blur / Dim** modes, switched from the menu bar.
 - One intensity slider for both Blur and Dim (default 75%).
 - Blur tints: None, Dark, Light, or your system accent color.
